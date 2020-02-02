@@ -5,7 +5,7 @@ Demo: https://akeamwoods.github.io/FR_ToDo_List/
 Disclaimer: This project was created < 4 hours
 
 # How To Use
-To create as 'ToDo' simply enter some text in the top form and either hit submit or click the add button.
+To create a 'ToDo' simply enter some text in the top form and either hit submit or click the add button.
 You can assign priority to the todo BEFORE it is created via the select dropdown.
 To re-assign a todo drag and drop it onto the desired list.
 
