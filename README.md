@@ -29,5 +29,6 @@ From the set criteria, the only two things I didn't complete (as I ran out of ti
 - Styling. I'm not particularly proud of the applications look/feel, particularly the select drop down at the top of the page. On Windows it looks fine, but on mac the height is smaller than the rest of the input bar which doesn't look great. I wanted to create a drop-down component to get around this issue but I didn't want to sink time into that as opposed to other features.
 
 If I had more time...
+- Smaller Screens. This app isn't friendly for mobile/smaller-screen devices. If this were a production level app then obviously I would ensure the app scales well for all devices.
 - Animation. If I had more time I would've added animation to the todo's via react-spring.
 - Warning prompts. I would've added in an alert/warning system to get user verification before deleting a todo.
