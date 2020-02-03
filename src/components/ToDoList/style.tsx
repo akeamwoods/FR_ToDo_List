@@ -4,14 +4,14 @@ export const ListWrapper = styled.div`
   display: flex;
   flex-direction: row;
   flex: 1 1 auto;
-  overflow: scroll;
+  overflow: auto;
 `;
 
 export const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1 1;
-  overflow: scroll;
+  overflow: auto;
   margin: 10px;
 `;
 
